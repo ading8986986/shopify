@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlContent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:padding="12dp"
+    >
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/image_collection"
+        android:layout_width="95dp"
+        android:layout_height="73dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop"
+        />
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_collection"
+        android:layout_marginRight="12dp"
+        android:textSize="18dp"
+        android:textColor="@color/black"
+        android:text="sssssstest"
+        />
+    <TextView
+        android:id="@+id/tv_update_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_collection"
+        android:layout_below="@+id/tv_title"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="24dp"
+        android:singleLine="true"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:text="test"
+        android:textColor="#AEC6CF"
+        android:textSize="13dp"/>
+
+
+
+
+
+</RelativeLayout>

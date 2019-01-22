@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlContent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#c1c1c1"
+    android:padding="12dp"
+    >
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/image_product"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop"
+        android:layout_marginRight="10dp"
+        />
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_product"
+        android:layout_marginRight="12dp"
+        android:textSize="18dp"
+        android:textColor="@color/black"
+        android:text="sssssstest"
+        />
+    <TextView
+        android:id="@+id/tv_inventory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_product"
+        android:layout_below="@+id/tv_name"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="12dp"
+        android:singleLine="true"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:text="test"
+        android:textColor="@color/black"
+        android:textSize="13dp"/>
+
+    <TextView
+        android:id="@+id/tv_update_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_product"
+        android:layout_below="@+id/tv_inventory"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="12dp"
+        android:singleLine="true"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:text="test"
+        android:textColor="@color/black"
+        android:textSize="13dp"/>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ading/installPath/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_b81ff1001c1e47e09049cc9cc0fa56e12aa5af0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/installPath/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_8b8f63f7b1dd0d253bd2c7cb17a68e618fe2106f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/.android/build-cache/e175ef56a7c0f67b5e126c6e73349d60d9767e7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e7c6e6150e19fef0c0a2370cc40956e1a2a8ce7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/.android/build-cache/52e017bbd681c63de176655e2c66331e593fe81e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc343ea538358007b81761326ecafa8b3728bd4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b6ee6e44380578b7eb8977e787f247d0b4296c81">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c91698e24a8edcaef29b99f4d5988c97bf0bee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/AndroidStudioProjects/shopify/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="21120d0dae602ec15cf7468e845251d7ec348fc0">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_ab3e23ac5cba4a64a418c974e88f9fb5e7e2daa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/.android/build-cache/b952dae2c3b4500ad7a1d31d028f5a578066ca3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21be34c6614377910152d8f5cb2f096e0f6f9ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2b3c2d2c02720b7d172c593f38a6eb20093e0aaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/.android/build-cache/e175ef56a7c0f67b5e126c6e73349d60d9767e7f/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_bed846d61024f331ce6dce147f87f6ca963cd09a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ading/AndroidStudioProjects/shopify/app/libs/universal-image-loader-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="/Users/ading/AndroidStudioProjects/shopify/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.2_6578813deed3ffc7708aec865b658aa8a7ec2c3a/classes.dex" />
+    </item>
+
+</items>
